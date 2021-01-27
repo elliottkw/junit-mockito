@@ -10,3 +10,4 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 /booking-restaurant-api/nbproject/private/
+/2-booking-restaurant-api/nbproject/
